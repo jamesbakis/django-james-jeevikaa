@@ -7,3 +7,9 @@
 body{
     background-color: #5a8f6e;
 }
+
+.banner {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+}
